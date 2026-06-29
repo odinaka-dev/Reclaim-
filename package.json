@@ -1,0 +1,13 @@
+{
+  "name": "reclaim-webhook",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Minimal webhook receiver for Nomba payment notifications — Reclaim (by DisputeDesk Technologies)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
